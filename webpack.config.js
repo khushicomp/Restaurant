@@ -34,5 +34,5 @@ module.exports = {
     static: "./dist",
   },
 
-  
+  mode: "development",
 };
